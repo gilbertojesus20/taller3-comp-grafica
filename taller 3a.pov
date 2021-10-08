@@ -13,7 +13,7 @@ light_source{<500,500,-1000> White}
 
 
 
-//diseño del suelo tipo maincra
+//diseï¿½o del suelo tipo maincra
 plane{
 y,-1.5
 //pigment{checker ForestGreen  } 
@@ -66,7 +66,3 @@ fog { fog_type   2
       fog_alt    1.5
       turbulence 1.8
     }
-
-
-
-                                      
